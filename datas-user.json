@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1504615755583-2916b52192a3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cmVudCUyMGElMjBob3VzZXxlbnwwfHwwfHx8MA%3D%3D",
+    "lastname": "Avotra1",
+    "firstname": "RANAIVOSON",
+    "tel": "(+261)321908264",
+    "email": "ranaivosonnomenjanaharyavotra@gmail.com",
+    "totalOffers": 3,
+    "totalStars": 5
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1504615755583-2916b52192a3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cmVudCUyMGElMjBob3VzZXxlbnwwfHwwfHx8MA%3D%3D",
+    "lastname": "Avotra2",
+    "firstname": "RANAIVOSON",
+    "tel": "(+261)321908264",
+    "email": "ranaivosonnomenjanaharyavotra@gmail.com",
+    "totalOffers": 3,
+    "totalStars": 5
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1504615755583-2916b52192a3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cmVudCUyMGElMjBob3VzZXxlbnwwfHwwfHx8MA%3D%3D",
+    "lastname": "Avotra3",
+    "firstname": "RANAIVOSON",
+    "tel": "(+261)321908264",
+    "email": "ranaivosonnomenjanaharyavotra@gmail.com",
+    "totalOffers": 3,
+    "totalStars": 5
+  }
+]
