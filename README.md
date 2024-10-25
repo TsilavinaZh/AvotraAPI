@@ -1,7 +1,6 @@
-# API URL
+https://avotraapi.onrender.com/api/user
 
-## /api/appartement
+https://avotraapi.onrender.com/api/post
 
-## /api/post
+https://avotraapi.onrender.com/api/appartement
 
-## /api/user
